@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Village_es
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: dd2286987fe81aa41bab80846e8534b4, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 17421594624
+    m_Localized: 'Cantidad actual:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19267088384
+    m_Localized: 'Cantidad total:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20701540352
+    m_Localized: Aumenta la cantidad generada de todos los minerales.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22509285376
+    m_Localized: Aumenta la cantidad de minerales obtenidos al minar.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24283475968
+    m_Localized: "Reduce la probabilidad de aparici\xF3n de obst\xE1culos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25629847552
+    m_Localized: Restaura 10 puntos de durabilidad del pico.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26263187456
+    m_Localized: 'Efecto de brillo mineral:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26753921024
+    m_Localized: Restaura 20 puntos de durabilidad del pico.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5105632440320
+    m_Localized: Descender al subsuelo (Q)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 150007738368
+    m_Localized: "Carb\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 150536220672
+    m_Localized: "Esta\xF1o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 151056314368
+    m_Localized: Cobre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5101689794560
+    m_Localized: Hierro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5102352494592
+    m_Localized: Oro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5102956474368
+    m_Localized: Zafiro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5103518511104
+    m_Localized: "Rub\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5104026021888
+    m_Localized: Esmeralda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5104546115584
+    m_Localized: Diamante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5105062014976
+    m_Localized: Diamante Rojo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 148279685120
+    m_Localized: Pico despierta durante 8 segundos.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 148900442112
+    m_Localized: "Obtenci\xF3n de minerales x1,5 durante 10 segundos.\n(No acumulable)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 149420535808
+    m_Localized: "Obtenci\xF3n de minerales hasta x2 durante 10 segundos.\n(No acumulable)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29988726796288
+    m_Localized: "Expansi\xF3n de terreno"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29991415345152
+    m_Localized: Mejora de linterna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29992753328128
+    m_Localized: Mejora del pico
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29993474748416
+    m_Localized: Tienda de bombas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29995534151680
+    m_Localized: Alquimia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29997778104320
+    m_Localized: Tienda de pociones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29998398861312
+    m_Localized: Intercambio de minerales
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6497936488296448
+    m_Localized: Intercambiar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6497996781416448
+    m_Localized: "Explota en la direcci\xF3n en que se activa."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

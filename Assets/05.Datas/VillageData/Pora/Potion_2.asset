@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e7c4c3bdefe66245881332bfe35070f, type: 3}
+  m_Name: Potion_2
+  m_EditorClassIdentifier: Assembly-CSharp::PoraData
+  potionSprite: {fileID: -2531962862038022753, guid: 77edc20df4892ab459faf9401e6425f9, type: 3}
+  key: 8
+  piece: {fileID: 11400000, guid: a97d95e4e25774a4bb89b83ca1c8e88e, type: 2}

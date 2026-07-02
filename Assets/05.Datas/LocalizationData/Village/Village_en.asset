@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Village_en
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: dd2286987fe81aa41bab80846e8534b4, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 17421594624
+    m_Localized: 'Current Quantity:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19267088384
+    m_Localized: 'Total Quantity:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20701540352
+    m_Localized: Increases the amount of all spawned minerals.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22509285376
+    m_Localized: Increases the amount of minerals obtained from mining.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24283475968
+    m_Localized: Reduces the chance of obstacles spawning.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25629847552
+    m_Localized: Restores 10 Pickaxe Durability.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26263187456
+    m_Localized: Ore Sparkle Effect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26753921024
+    m_Localized: Restores 20 Pickaxe Durability.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5105632440320
+    m_Localized: Descend Underground (Q)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 150007738368
+    m_Localized: Coal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 150536220672
+    m_Localized: Tin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 151056314368
+    m_Localized: Copper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5101689794560
+    m_Localized: Iron
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5102352494592
+    m_Localized: Gold
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5102956474368
+    m_Localized: Sapphire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5103518511104
+    m_Localized: Ruby
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5104026021888
+    m_Localized: Emerald
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5104546115584
+    m_Localized: Diamond
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5105062014976
+    m_Localized: Red Diamond
+    m_Metadata:
+      m_Items: []
+  - m_Id: 148279685120
+    m_Localized: Pico Awakens for 8 Seconds.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 148900442112
+    m_Localized: 'Mineral Gain x1.5 for 10 Seconds.
+
+      (Cannot Stack)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 149420535808
+    m_Localized: 'Mineral Gain up to x2 for 10 Seconds.
+
+      (Cannot Stack)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29988726796288
+    m_Localized: Land Expansion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29991415345152
+    m_Localized: Lantern Upgrade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29992753328128
+    m_Localized: Pickaxe Upgrade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29993474748416
+    m_Localized: Bomb Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29995534151680
+    m_Localized: Alchemy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29997778104320
+    m_Localized: Potion Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29998398861312
+    m_Localized: Mineral Exchange
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6497936488296448
+    m_Localized: Exchange
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6497996781416448
+    m_Localized: Explodes in the direction it is triggered.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

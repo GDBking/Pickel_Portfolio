@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Localization-Assets-Shared
+  m_GUID: a740e039624024e47a739c47c970a321
+  m_SerializeEntries:
+  - m_GUID: 5eca4cd0ca6299f43ad542302cabdef4
+    m_Address: Assets/05.Datas/LocalizationData/Mine/Mine Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 93dd444a54ff80f4c87a7b5a4c8e6e4f
+    m_Address: Assets/05.Datas/LocalizationData/Lobby/Lobby Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0082d12695d13f49b0616e9289630b4
+    m_Address: Assets/05.Datas/LocalizationData/Settings/Settings Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dd2286987fe81aa41bab80846e8534b4
+    m_Address: Assets/05.Datas/LocalizationData/Village/Village Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 004e34a0fcded9146a8d934f8daf9cd3, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f48c2fa0787ee434db138cc89bbd0348, type: 2}
+    - {fileID: 11400000, guid: b688ca18e6d3773499d8668139655c93, type: 2}

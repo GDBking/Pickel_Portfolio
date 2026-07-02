@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Lobby
+  m_EditorClassIdentifier: Unity.Localization.Editor::UnityEditor.Localization.StringTableCollection
+  m_SharedTableData: {fileID: 11400000, guid: 93dd444a54ff80f4c87a7b5a4c8e6e4f, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 9ec5cad3e4fea0142a3bf524fb7d7c10, type: 2}
+  - {fileID: 11400000, guid: c341a6c52841a694d850667ec790afe5, type: 2}
+  - {fileID: 11400000, guid: b56214505885f0643ad3f5cda1dd2de4, type: 2}
+  - {fileID: 11400000, guid: 3081f36047e43154eaffee1d337b5c1d, type: 2}
+  - {fileID: 11400000, guid: cf992516c55b50e44bac4118cbe89509, type: 2}
+  - {fileID: 11400000, guid: 6c23c06b92e08d64aabaf029643c5fd9, type: 2}
+  - {fileID: 11400000, guid: d4c4d1c07899b9f4cb6de2cffaadb08e, type: 2}
+  - {fileID: 11400000, guid: 8732135dfd716a2408c89573841c72d2, type: 2}
+  - {fileID: 11400000, guid: a63d673123a6b2f439e7841f5565042f, type: 2}
+  - {fileID: 11400000, guid: 23358e32d9c2d154c92fd8663eae34a1, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

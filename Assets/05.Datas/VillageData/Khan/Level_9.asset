@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef5a2a7b5dcc5ee4ba1420098971e9a6, type: 3}
+  m_Name: Level_9
+  m_EditorClassIdentifier: Assembly-CSharp::KhanData
+  spr: {fileID: -180134118, guid: 99bff2509aaedba4ba2c6344cf80e45d, type: 3}
+  power: 15
+  durability: 150
+  piece: {fileID: 11400000, guid: 1cf744b289c1d0f498fab9a1e9779bed, type: 2}

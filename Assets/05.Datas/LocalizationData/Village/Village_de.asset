@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Village_de
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: dd2286987fe81aa41bab80846e8534b4, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 17421594624
+    m_Localized: 'Aktuelle Menge:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19267088384
+    m_Localized: 'Gesamtmenge:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20701540352
+    m_Localized: "Erh\xF6ht die Spawnmenge aller Erze."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22509285376
+    m_Localized: "Erh\xF6ht die beim Abbau erhaltene Erzmenge."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24283475968
+    m_Localized: Verringert die Spawnchance von Hindernissen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25629847552
+    m_Localized: Stellt 10 Haltbarkeit der Spitzhacke wieder her.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26263187456
+    m_Localized: 'Erzglanz-Effekt:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26753921024
+    m_Localized: Stellt 20 Haltbarkeit der Spitzhacke wieder her.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5105632440320
+    m_Localized: In die Tiefe hinabsteigen (Q)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 150007738368
+    m_Localized: Kohle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 150536220672
+    m_Localized: Zinn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 151056314368
+    m_Localized: Kupfer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5101689794560
+    m_Localized: Eisen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5102352494592
+    m_Localized: Gold
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5102956474368
+    m_Localized: Saphir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5103518511104
+    m_Localized: Rubin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5104026021888
+    m_Localized: Smaragd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5104546115584
+    m_Localized: Diamant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5105062014976
+    m_Localized: Roter Diamant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 148279685120
+    m_Localized: "Pico erwacht f\xFCr 8 Sekunden."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 148900442112
+    m_Localized: "Erzgewinn x1,5 f\xFCr 10 Sekunden.\n(Nicht stapelbar)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 149420535808
+    m_Localized: "Erzgewinn bis zu x2 f\xFCr 10 Sekunden.\n(Nicht stapelbar)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29988726796288
+    m_Localized: Land-Erweiterung
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29991415345152
+    m_Localized: Laternen-Verbesserung
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29992753328128
+    m_Localized: Spitzhacken-Verbesserung
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29993474748416
+    m_Localized: Bombenladen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29995534151680
+    m_Localized: Alchemie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29997778104320
+    m_Localized: "Tr\xE4nkeladen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29998398861312
+    m_Localized: Mineraltausch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6497936488296448
+    m_Localized: Tauschen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6497996781416448
+    m_Localized: "Explodiert in die Richtung, in der es ausgel\xF6st wird."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

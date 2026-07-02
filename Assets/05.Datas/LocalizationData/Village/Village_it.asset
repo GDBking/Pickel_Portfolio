@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Village_it
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: it
+  m_SharedData: {fileID: 11400000, guid: dd2286987fe81aa41bab80846e8534b4, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 17421594624
+    m_Localized: "Quantit\xE0 attuale:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19267088384
+    m_Localized: "Quantit\xE0 totale:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20701540352
+    m_Localized: "Aumenta la quantit\xE0 generata di tutti i minerali."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22509285376
+    m_Localized: "Aumenta la quantit\xE0 di minerali ottenuti dall'estrazione."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24283475968
+    m_Localized: "Riduce la probabilit\xE0 di comparsa degli ostacoli."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25629847552
+    m_Localized: "Ripristina 10 punti durabilit\xE0 del piccone."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26263187456
+    m_Localized: 'Effetto scintillante dei minerali:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26753921024
+    m_Localized: "Ripristina 20 punti durabilit\xE0 del piccone."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5105632440320
+    m_Localized: Scendere nel sottosuolo (Q)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 150007738368
+    m_Localized: Carbone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 150536220672
+    m_Localized: Stagno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 151056314368
+    m_Localized: Rame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5101689794560
+    m_Localized: Ferro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5102352494592
+    m_Localized: Oro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5102956474368
+    m_Localized: Zaffiro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5103518511104
+    m_Localized: Rubino
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5104026021888
+    m_Localized: Smeraldo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5104546115584
+    m_Localized: Diamante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5105062014976
+    m_Localized: Diamante Rosso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 148279685120
+    m_Localized: Pico si risveglia per 8 secondi.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 148900442112
+    m_Localized: 'Minerali ottenuti x1,5 per 10 secondi.
+
+      (Non cumulabile)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 149420535808
+    m_Localized: 'Minerali ottenuti fino a x2 per 10 secondi.
+
+      (Non cumulabile)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29988726796288
+    m_Localized: Espansione del terreno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29991415345152
+    m_Localized: Potenziamento lanterna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29992753328128
+    m_Localized: Potenziamento piccone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29993474748416
+    m_Localized: Negozio di bombe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29995534151680
+    m_Localized: Alchimia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29997778104320
+    m_Localized: Negozio di pozioni
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29998398861312
+    m_Localized: Scambio di minerali
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6497936488296448
+    m_Localized: Scambiare
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6497996781416448
+    m_Localized: Esplode nella direzione in cui viene attivato.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

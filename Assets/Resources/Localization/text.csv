@@ -1,0 +1,20 @@
+key,ko,en,fr,it,de,es,ja,pt-BR,ru,zh-Hans
+ending_total_mine,총 곡괭이질 횟수,Total number of pickaxe swings,Nombre total de coups de pioche,Numero totale di colpi di piccone,Gesamtzahl der Spitzhackenschläge,Número total de golpes de pico,ツルハシを振った総回数,Número total de golpes de picareta,Общее количество взмахов киркой,挥镐总次数
+ending_total_bomb,터트린 폭탄 수,Bombs Exploded,Nombre de bombes explosées,Bombe esplose,Explodierte Bomben,Bombas explotadas,爆発させた爆弾数,Bombas explodidas,Количество взорванных бомб,引爆炸弹数量
+ending_total_potion,섭취한 물약 수,Potions Consumed,Potions consommées,Pozioni consumate,Konsumierte Tränke,Pociones consumidas,飲んだポーション数,Poções consumidas,Количество использованных зелий,使用药水数量
+ending_total_enter,광산 입장 횟수,Mine Entries,Entrées dans la mine,Ingressi nella miniera,Minenbetretungen,Entradas a la mina,鉱山への入場回数,Entradas na mina,Количество входов в шахту,进入矿山次数
+ending_total_ore,총 채굴한 광석 수,Total Ores Mined,Nombre total de minerais extraits,Totale minerali estratti,Gesamtzahl abgebauter Erze,Total de minerales extraídos,採掘した鉱石の総数,Total de minérios minerados,Общее количество добытой руды,采集矿石总数
+ending_total_play_time,총 플레이 타임,Total Play Time,Temps de jeu total,Tempo di gioco totale,Gesamte Spielzeit,Tiempo total de juego,総プレイ時間,Tempo total de jogo,Общее время игры,总游戏时长
+
+ending_play_time_format,{0}시간 {1}분 {2}초,{0}h {1}m {2}s,{0}h {1}m {2}s,{0}h {1}m {2}s,{0}Std {1}Min {2}Sek,{0}h {1}m {2}s,{0}時間 {1}分 {2}秒,{0}h {1}m {2}s,{0}ч {1}м {2}с,{0}小时 {1}分 {2}秒
+
+ore_coal,석탄,Coal,Charbon,Carbone,Kohle,Carbón,石炭,Carvão,Уголь,煤炭
+ore_tin,주석,Tin,Étain,Stagno,Zinn,Estaño,スズ,Estanho,Олово,锡
+ore_copper,구리,Copper,Cuivre,Rame,Kupfer,Cobre,銅,Cobre,Медь,铜
+ore_iron,철,Iron,Fer,Ferro,Eisen,Hierro,鉄,Ferro,Железо,铁
+ore_gold,금,Gold,Or,Oro,Gold,Oro,金,Ouro,Золото,金
+ore_sapphire,사파이어,Sapphire,Saphir,Zaffiro,Saphir,Zafiro,サファイア,Safira,Сапфир,蓝宝石
+ore_ruby,루비,Ruby,Rubis,Rubino,Rubin,Rubí,ルビー,Rubi,Рубин,红宝石
+ore_emerald,에메랄드,Emerald,Émeraude,Smeraldo,Smaragd,Esmeralda,エメラルド,Esmeralda,Изумруд,祖母绿
+ore_diamond,다이아몬드,Diamond,Diamant,Diamante,Diamant,Diamante,ダイヤモンド,Diamante,Алмаз,钻石
+ore_red_diamond,레드 다이아몬드,Red Diamond,Diamant rouge,Diamante rosso,Roter Diamant,Diamante rojo,レッドダイヤモンド,Diamante Vermelho,Красный алмаз,红钻石

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26c67c8360c452849972ce570f599e67, type: 3}
+  m_Name: TileData3
+  m_EditorClassIdentifier: Assembly-CSharp::TileData
+  baseTile: {fileID: 11400000, guid: 7211b98d6f20f904794c16e55a15e734, type: 2}
+  damageTiles:
+  - {fileID: 11400000, guid: 66a53c1d95d628d41abd091ae70fbcfe, type: 2}
+  - {fileID: 11400000, guid: d4fa4897ccf797c4fbb9c2cb5018c642, type: 2}
+  - {fileID: 11400000, guid: 8b88d113ebf34cd4ca4cffb6c61555f0, type: 2}
+  maxHP: 7
+  oreData:
+    oreSprite: {fileID: 21300000, guid: 7ca8874b0f83a48458b70ebd19b6d99c, type: 3}
+    orePieceSprite: {fileID: 21300000, guid: fc52bde363a3d4140b498fae40b070af, type: 3}
+    effectMaterial: {fileID: 2100000, guid: eb6e7abcef896f847960bd5161c4a89e, type: 2}
+    pieceMaterial: {fileID: 2100000, guid: fc5894560f550bc48b02107199866d2d, type: 2}
+    bagIdx: 2

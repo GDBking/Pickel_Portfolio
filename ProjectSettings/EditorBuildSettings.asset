@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/1.Lobby.unity
+    guid: ab9217fd629675f489c02ca700474744
+  - enabled: 1
+    path: Assets/Scenes/2.Village.unity
+    guid: 82d262e93f2e74a478f40a8e324a4d18
+  - enabled: 1
+    path: Assets/Scenes/3.Mine.unity
+    guid: 41567cda994ce2d4992d99566d8f5c5a
+  - enabled: 1
+    path: Assets/Scenes/4.DestroyedVillage.unity
+    guid: cfb703e85f34e6646940f54d1fc7517c
+  - enabled: 0
+    path: Assets/Scenes/Test.unity
+    guid: 8b3ffd842f780d542988eb35f6206220
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: b0b9d39266254064eb8f8e0f92e5f367, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 3ec99ee81ba1f0047a9799a352d583a3, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+    com.unity.localization.settings: {fileID: 11400000, guid: eae02da10829af441ae82a1749c7d96d, type: 2}
+  m_UseUCBPForAssetBundles: 0

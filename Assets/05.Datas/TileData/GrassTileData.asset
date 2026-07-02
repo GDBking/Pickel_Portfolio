@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26c67c8360c452849972ce570f599e67, type: 3}
+  m_Name: GrassTileData
+  m_EditorClassIdentifier: Assembly-CSharp::TileData
+  baseTile: {fileID: 11400000, guid: 6a8c7ee2b59cdab43b744452eaccabae, type: 2}
+  damageTiles:
+  - {fileID: 11400000, guid: 00dbe2013f78c74478829a10f68fd0e3, type: 2}
+  - {fileID: 11400000, guid: 269c0738c05cca74cb41a168367cf62a, type: 2}
+  - {fileID: 11400000, guid: 239ac73b707a4f440bab88b63a6cfe58, type: 2}
+  maxHP: 15
+  oreData:
+    oreSprite: {fileID: 0}
+    orePieceSprite: {fileID: 0}
+    effectMaterial: {fileID: 0}
+    pieceMaterial: {fileID: 0}
+    bagIdx: 0

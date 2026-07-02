@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e105e2d63eaecb438b799933d8cfd5a, type: 3}
+  m_Name: Bomb_3
+  m_EditorClassIdentifier: Assembly-CSharp::BoomData
+  bombSprite: {fileID: -2201753502018197206, guid: 65a87a89f7bf86c40aa6bcfd68a8e72d, type: 3}
+  rangeSprite: {fileID: 424081754, guid: 5203c2b745250b847b28cb4d7cab3c2a, type: 3}
+  piece: {fileID: 11400000, guid: 7acc3c216eeaea140bbe50c4fa3d352d, type: 2}
